@@ -27,7 +27,7 @@ latest_posts:
 
 Welcome to my page 👋
 
-I am an incoming PhD student at Stanford University. Previously, I have completed my MSc in Physics at ETH Zürich 🇨🇭 (2025) and BSc in Physics at the University of Ljubljana 🇸🇮 (2023).
+I am a Physics PhD student at [Stanford University](https://www.stanford.edu) and [SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu/). Previously, I have completed my MSc in Physics at [ETH Zürich](https://www.phys.ethz.ch/), Switzerland (2025) and BSc in Physics at the [University of Ljubljana](https://www.fmf.uni-lj.si/en/), Slovenia (2023).
 
 My research interests include machine learning, future colliders and searches for Physics beyond the Standard Model - and I get especially excited when these fields overlap!
 
