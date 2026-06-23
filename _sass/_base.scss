@@ -803,6 +803,10 @@ footer.sticky-bottom {
           padding-bottom: 0.25rem;
           margin-left: 0;
 
+          i {
+            margin-right: 0.35rem;
+          }
+
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
