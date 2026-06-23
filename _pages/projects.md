@@ -17,6 +17,7 @@ nav_order: 3
 {{ project.content }}
 
 {% unless forloop.last %}
+
 <hr>
 {% endunless %}
 {% endfor %}

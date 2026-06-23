@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -32,4 +32,3 @@ I am a Physics PhD student at [Stanford University](https://www.stanford.edu) an
 My research interests include machine learning, future colliders and searches for Physics beyond the Standard Model - and I get especially excited when these fields overlap!
 
 <a href="{{ '/projects/' | relative_url }}" class="d-inline-block px-4 py-2 mt-2 mb-2" style="background: linear-gradient(135deg, #6e8efb, #a777e3); color: #fff; border-radius: 50px; font-weight: 600; text-decoration: none; box-shadow: 0 4px 10px rgba(110, 142, 251, 0.4);">🚀 Check out my projects!</a>
-

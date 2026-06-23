@@ -7,7 +7,6 @@ importance: 2
 category: work
 related_publications: true
 image_caption: A sample event display, colored by the true particles (left), particles predicted by HitPF (middle), and particles predicted by the baseline Pandora (right). HitPF is able to better reconstruct nearby photon showers (A) and link calorimeter clusters with the correct tracks (B). Figure from the paper.
-
 ---
 
 {% include figure.liquid loading="eager" path=page.img class="img-fluid rounded z-depth-1 d-block mx-auto" caption=page.image_caption %}
