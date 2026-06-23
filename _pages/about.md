@@ -29,6 +29,6 @@ Welcome to my page 👋
 
 I am a Physics PhD student at [Stanford University](https://www.stanford.edu) and [SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu/). Previously, I have completed my MSc in Physics at [ETH Zürich](https://www.phys.ethz.ch/), Switzerland (2025) and BSc in Physics at the [University of Ljubljana](https://www.fmf.uni-lj.si/en/), Slovenia (2023).
 
-My research interests include machine learning, future colliders and searches for Physics beyond the Standard Model - and I get especially excited when these fields overlap!
+My research interests include machine learning, future colliders, and searches for physics beyond the Standard Model — particularly where ML can unlock precision that classical methods can't reach.
 
 <a href="{{ '/projects/' | relative_url }}" class="d-inline-block px-4 py-2 mt-2 mb-2" style="background: linear-gradient(135deg, #6e8efb, #a777e3); color: #fff; border-radius: 50px; font-weight: 600; text-decoration: none; box-shadow: 0 4px 10px rgba(110, 142, 251, 0.4);">🚀 Check out my projects!</a>
