@@ -15,5 +15,3 @@ image_caption: A sample event display, colored by the true particles (left), par
 HitPF is an end-to-end, Geometric Algebra Transformer-based particle flow reconstruction pipeline for that works directly on detector hits and tracks. By learning reconstruction directly from raw hits rather than hand-engineered intermediate objects, the approach aims to push the precision of event reconstruction beyond what classical particle flow algorithms achieve. By decoupling reconstruction performance from detector-specific tuning, this framework enables rapid iteration during the detector design phase of future collider experiments.
 
 Run the algorithm yourself on any event [on Hugging Face](https://huggingface.co/spaces/gregorkrzmanc/HitPF_demo) and see the [paper](https://arxiv.org/pdf/2603.04084) for more info.
-
-{% cite Garcia2026EndToEnd %}
