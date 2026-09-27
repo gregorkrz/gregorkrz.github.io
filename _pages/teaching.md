@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
+**Fall 2026**  
+_Stanford University_  
+Courses: Physics 21/22 (Mechanics and Fluids)
+
 **Spring 2026**  
 _Stanford University_  
 Courses: Physics 43/44 (Electricity and Magnetism)
